@@ -1,8 +1,8 @@
-# Code of Conduct and Moderation
+## Code of Conduct and Moderation Policy
 
 The Code of Conduct for this repository, which currently is the Rust Code of Conduct, [can be found online](https://www.rust-lang.org/conduct.html). An edited version is also below.
 
-## Code of Conduct
+### Code of Conduct
 
 - We are committed to providing a friendly, safe and welcoming environment for all, regardless of level of experience, gender identity and expression, sexual orientation, disability, personal appearance, body size, race, ethnicity, age, religion, nationality, or other similar characteristic.
 - Please avoid using overtly sexual aliases or other nicknames that might detract from a friendly, safe and welcoming environment for all.
@@ -13,7 +13,7 @@ The Code of Conduct for this repository, which currently is the Rust Code of Con
 - Private harassment is also unacceptable. No matter who you are, if you feel you have been or are being harassed or made uncomfortable by a community member, please contact one of the admins in our Discord server immediately. Whether you’re a regular contributor or a newcomer, we care about making this community a safe place for you and we’ve got your back.
 - Likewise any spamming, trolling, flaming, baiting or other attention-stealing behavior is not welcome.
 
-## Moderation Policy
+### Moderation Policy
 
 These are the policies for upholding our community’s standards of conduct. If you feel that a thread needs moderation, please contact the admins in our Discord server.
 
